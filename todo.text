@@ -1,0 +1,23 @@
+appearance:
+======To Do list=======
+0. Exit
+1. Add Tasks
+2. Show Tasks
+3. Edit Tasks
+4. Mark Task as Completed
+5. Unmark Task as Completed
+6. Update Progression
+7. Remove Task
+8. Remove All Tasks
+
+=====Add Task====
+0. Exit
+1. Task1
+2. Task2
+
+
+===Show Tasks====
+0. Exit
+1. Task1
+2. Task2 - Progression 50%
+3. Task3 - Completed
