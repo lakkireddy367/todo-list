@@ -18,9 +18,9 @@ class Tasks:
             print("===No Tasks====")
             print("=== End of Showing Tasks ===")
             return
-        print("S.No. Progress(%)  Task")
+        print("S.No.\sProgress(\\%)\tTask")
         for ind, task in enumerate(self.__tasks):
-            print(f'{ind+1}.        {self.progression[ind]}      {task}')
+            print(f'{ind+1}.\t\t\t{self.progression[ind]}\t{task}')
         print("=== End of Showing Tasks ===")
 
 
